@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851546797549",
+    "firebase_url": "https://imageloader-e53a4.firebaseio.com",
+    "project_id": "imageloader-e53a4",
+    "storage_bucket": "imageloader-e53a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851546797549:android:8f7ab88d6fffbe4d",
+        "android_client_info": {
+          "package_name": "com.itparkbynipun.imageloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851546797549-8m6g4l31ia6si458nnal08setqvlnpua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OKvAGjs-UzD9GwDx7CzhTHjZcEW0i8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
